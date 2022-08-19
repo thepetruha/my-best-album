@@ -1,0 +1,3 @@
+[submodule "my-best-album-client"]
+	path = my-best-album-client
+	url = https://github.com/thepetruha/my-best-album-client.git
