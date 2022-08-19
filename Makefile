@@ -2,4 +2,4 @@
 server:
 	cd server; npm run dev;
 client:
-	cd my-best-album; npm run build; npm run start;
+	cd my-best-album-client; npm run build; npm run start;
