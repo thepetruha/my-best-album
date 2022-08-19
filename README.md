@@ -17,7 +17,7 @@ https://github.com/thepetruha/my-best-album-client.git
 4. введите в адресной строке вашего любимого браузера ```http://localhost:3000```
 
 ### Video
-![alt text](https://github.com/thepetruha/my-best-album/blob/main/video.mov?raw=true)
+https://github.com/thepetruha/my-best-album/blob/main/video.mov
 
 ## Screnshot
 ![alt text](https://github.com/thepetruha/my-best-album/blob/main/img3.png?raw=true)
