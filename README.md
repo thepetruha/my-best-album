@@ -3,7 +3,7 @@
 
 ## Get Start 
 1. Для запуска приложения откройте две консоли
-2. Склонируйте клиентское приложение в ту же дериктория где у вас находится папка ```server``
+2. Склонируйте клиентское приложение в ту же дериктория где у вас находится папка ```server```
 ```https://github.com/thepetruha/my-best-album-client.git```
 должно выглядить вот так!
 ![alt text](https://github.com/thepetruha/my-best-album/blob/main/img11.png?raw=true)
