@@ -4,35 +4,34 @@
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
 # dependencies
-/node_modules
-/.pnp
-.pnp.js
+./my-best-album/.pnp
+./my-best-album.pnp.js
 
 # testing
-/coverage
+./my-best-album/coverage
 
 # next.js
-/.next/
-/out/
+./my-best-album/.next/
+./my-best-album/out/
 
 # production
-/build
+./my-best-album/build
 
 # misc
-.DS_Store
+./my-best-album/.DS_Store
 *.pem
 
 # debug
-npm-debug.log*
-yarn-debug.log*
-yarn-error.log*
-.pnpm-debug.log*
+./my-best-album/npm-debug.log*
+./my-best-album/yarn-debug.log*
+./my-best-album/yarn-error.log*
+./my-best-album/.pnpm-debug.log*
 
 # local env files
-.env*.local
+./my-best-album/.env*.local
 
 # vercel
-.vercel
+./my-best-album/.vercel
 
 # typescript
 *.tsbuildinfo
